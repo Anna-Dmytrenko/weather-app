@@ -1,0 +1,11 @@
+body {
+  font-family: Metal Mania, serif;
+}
+
+.card-text-forecast {
+  text-align: center;
+  font-size: 34px;
+}
+.card-img {
+  filter: brightness(80%);
+}
